@@ -11,5 +11,7 @@ mysql = {
     "db": "passanlysis"
 }
 
-csdn = 'www.csdn.net.sql'
-yahoo = 'plaintxt_yahoo.txt'
+csdn = 'csdn.txt'
+csdnTodo = 'csdn.todo.txt'
+yahoo = 'yahoo.txt'
+yahooTodo = 'yahoo.todo.txt'
